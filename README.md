@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on # Barki
-- 🌱 I’m currently learning Renforcement Learning
+- 🔭 I’m currently working on **Barki
+- 🌱 I’m currently learning **Renforcement Learning
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Renforcement Learning
 - 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP and JavaScript
