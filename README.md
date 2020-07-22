@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on WayToCall
+- 🔭 I’m currently working on #Barki
 - 🌱 I’m currently learning Renforcement Learning
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Renforcement Learning
-- 💬 Ask me about Python/MicroService/Docker/Celery and JavaScript
+- 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP and JavaScript
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
