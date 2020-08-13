@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently building **Barki** 
-- 🌱 I’m currently learning **Renforcement Learning**
+- 🌱 I’m currently learning **Self Supervised Learning**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
-- 🤔 I’m looking for help with Renforcement Learning
-- 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP and JavaScript
+- 🤔 I’m looking for help with Self Supervised Learning
+- 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
