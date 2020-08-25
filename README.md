@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Self Supervised Learning
 - 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
+
+![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=harouna&show_icons=true&theme=radical)
