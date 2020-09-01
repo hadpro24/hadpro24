@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building **Dophin Framework** 
+- 🔭 I’m currently building **Imata and Dophin Framework** 
 - 🌱 I’m currently learning **Self Supervised Learning**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
