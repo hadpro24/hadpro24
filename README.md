@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building **Barki** 
+- 🔭 I’m currently building **Dophin Framework** 
 - 🌱 I’m currently learning **Self Supervised Learning**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
-- 💬 Ask me about Python/API/Docker/Celery/Channels/Machine Learning/NLP/React/Angular and APEX
+- 💬 Ask me about Python/API/Docker/Celery/Sentry/Channels/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
 
 ![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadpro24)](https://github.com/anuraghazra/github-readme-stats)
