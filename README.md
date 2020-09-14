@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadpro24)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 - 🔭 I’m currently building **iMATA and Dophin** 
@@ -22,6 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python/API/Docker/Celery/Sentry/Channels/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
 
-![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadpro24)](https://github.com/anuraghazra/github-readme-stats)
+![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical)
 
 
