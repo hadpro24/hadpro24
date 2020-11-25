@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python/API/Docker/Celery/Sentry/Channels/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
 
-![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical)
+#![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical)
 
 
