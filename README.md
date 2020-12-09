@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Self Supervised Learning**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
-- 💬 Ask me about Python/API/Docker/Celery/Sentry/Channels/Machine Learning/NLP/React/Angular and APEX
+- 💬 Ask me about Python/API/Message brokers/Celery/Sentry/Channels/Docker/Machine Learning/NLP/React/Angular and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +221765355149
 
 <!--
