@@ -27,4 +27,6 @@ Here are some ideas to get you started:
  ![Harouna's github stats](https://github-readme-stats.vercel.app/api?username=hadpro24&show_icons=true&theme=radical)
  -->
 
+### Graph stats :
+[![Harouna's github activity graph](https://activity-graph.herokuapp.com/graph?username=hadpro24&theme=xcode)](https://github.com/hadpro24)
 
