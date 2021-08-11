@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ### Stats :
 <!-- [![Harouna's github activity graph](https://activity-graph.herokuapp.com/graph?username=hadpro24&theme=xcode)](https://github.com/hadpro24) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadpro24&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadpro24&theme=solarized_dark) 
 
