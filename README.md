@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Self Supervised Learning**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
-- 💬 Ask me about Python/API/Message brokers/JavaScript/Error tracking/CI-CD/Github Actions/NLP/Machine Learning and APEX
+- 💬 Ask me about Python/API/Message brokers/JavaScript/Error tracking/OAuth 2.0 and OpenID connect/SSO/CI-CD/Github Actions/NLP/Machine Learning and APEX
 - 📫 How to reach me: dev.harouna@gmail.com / +224623273737
 
 <!-- 
