@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  
 ### My Meet-up, Live coding and Tolks
-- **2021** - [Delegate Auth with OAuth and OpenID connect](https://docs.google.com/presentation/d/1rfdFL-QLsqFkc9cpP18LM-MgRjhqqTR4kBM75PRTgBU/edit#slide=id.gc6f73a04f_0_0) (Google developers Groups)
+- **2021** - [Déléguez vos authentifications avec OAuth 2.0 et OpenID connect](https://docs.google.com/presentation/d/1rfdFL-QLsqFkc9cpP18LM-MgRjhqqTR4kBM75PRTgBU/edit#slide=id.gc6f73a04f_0_0) (Google developers Groups)
 - **2020** - [Créer votre premier modèle d'apprentissage automatique](https://docs.google.com/presentation/d/1N138W9tS7yvkJs7kX6TbRzQJLPivoQWgu1XDJbA0DzE/edit#slide=id.gcb9a0b074_1_0) (Google Data Science Week)
 - **2019** - [Comprendre enfin les APIs et micro-services](https://docs.google.com/presentation/d/1GXSmDdLj0Q2nKC7s5Z432gu37HQjnnVq/edit#slide=id.p1) (DevsCom)
 - **2019** - [Web programming with python and JavaScript - Edition 3](https://docs.google.com/presentation/d/1_Z_TZdAPajrugbz66RThXEt1AOt7RqE1/edit#slide=id.p1) (Nimba Solution)
