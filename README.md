@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadpro24)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔭 I’m currently building **iMATA and Nimba** 
+- 🔭 I’m currently building **Nimba** 
 - 🌱 I’m currently learning **Self Supervised Learning** and **Rust**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
