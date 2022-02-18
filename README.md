@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  
  
 ### My Meet-up, Live coding and Talks
+- **2022** - [NLP - Traitement automatique des langues](https://docs.google.com/presentation/d/1JMRU3QQCHkQL-BRJj8qiwCQ6DXoCeOOzlkIO894QFsc/edit?usp=sharing) (Google Data Science Week 2)
 - **2021** - [Déléguez vos authentifications avec OAuth 2.0 et OpenID connect](https://docs.google.com/presentation/d/1rfdFL-QLsqFkc9cpP18LM-MgRjhqqTR4kBM75PRTgBU/edit#slide=id.gc6f73a04f_0_0) (Google developers Groups)
 - **2020** - [Créer votre premier modèle d'apprentissage automatique](https://docs.google.com/presentation/d/1N138W9tS7yvkJs7kX6TbRzQJLPivoQWgu1XDJbA0DzE/edit#slide=id.gcb9a0b074_1_0) (Google Data Science Week)
 - **2019** - [Comprendre enfin les APIs et micro-services](https://docs.google.com/presentation/d/10kd9rxFrfCuzxAPH4m_ErmZbztRIu0mDDJvb1AOu-Mw/edit?usp=sharing) (DevsCom)
