@@ -9,6 +9,7 @@
 
  
 ### My Meet-up, Live coding and Talks
+- **2023** - [Data Analysis et Machine Learning](https://docs.google.com/presentation/d/1jvnBrSlwOymGZzQ4hnodA4Hk8GHcdqSghUZoIdQ1qH8/edit?usp=sharing) (ORANGE DIGITAL CENTER)
 - **2022** - [Machine Learning et Deploiement](https://docs.google.com/presentation/d/1jvnBrSlwOymGZzQ4hnodA4Hk8GHcdqSghUZoIdQ1qH8/edit?usp=sharing) (ORANGE DIGITAL CENTER - Place)
 - **2022** - [NLP - Traitement automatique des langues](https://docs.google.com/presentation/d/1JMRU3QQCHkQL-BRJj8qiwCQ6DXoCeOOzlkIO894QFsc/edit?usp=sharing) (Google Data Science Week - Online)
 - **2021** - [Déléguez vos authentifications avec OAuth 2.0 et OpenID connect](https://docs.google.com/presentation/d/1rfdFL-QLsqFkc9cpP18LM-MgRjhqqTR4kBM75PRTgBU/edit#slide=id.gc6f73a04f_0_0) (Google developers Groups - Online)
