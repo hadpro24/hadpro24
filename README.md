@@ -9,7 +9,7 @@
 
  
 ### My Meet-up, Live coding and Talks
-- **2023** - [Data Analysis : Statistics and algebra](https://github.com/hadpro24/indabaxgn-2023) (IndabaX Guinee - UNC)
+- **2023** - [Analyser vos données à des fins de prédictions](https://github.com/hadpro24/indabaxgn-2023) (IndabaX Guinee - UNC)
 - **2023** - [Data Analysis et Machine Learning](https://docs.google.com/presentation/d/1jvnBrSlwOymGZzQ4hnodA4Hk8GHcdqSghUZoIdQ1qH8/edit?usp=sharing) (ORANGE DIGITAL CENTER)
 - **2022** - [Machine Learning et Deploiement](https://docs.google.com/presentation/d/1jvnBrSlwOymGZzQ4hnodA4Hk8GHcdqSghUZoIdQ1qH8/edit?usp=sharing) (ORANGE DIGITAL CENTER - Place)
 - **2022** - [NLP - Traitement automatique des langues](https://docs.google.com/presentation/d/1JMRU3QQCHkQL-BRJj8qiwCQ6DXoCeOOzlkIO894QFsc/edit?usp=sharing) (Google Data Science Week - Online)
