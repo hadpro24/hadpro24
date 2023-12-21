@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently building **Nimba** 
-- 🌱 I’m currently learning **Self Supervised Learning** and **Rust**
+- 🌱 I’m currently learning **Self Supervised Learning / LLMs** and **Distributed system (database and service scaling)**
 - 👯 I’m looking to collaborate on python (Django and JavaScript), preferences from Guinea
 - 🤔 I’m looking for help with Self Supervised Learning
 - 💬 Ask me about Python/API GateWay/Message brokers/JavaScript/Error tracking/OAuth 2.0 and OpenID connect/SSO/CI-CD/Github Actions/Rate liming/NLP/Machine Learning and APEX (salesforce)/ Micro service communication/Application Resilence and more.
