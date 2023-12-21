@@ -9,6 +9,7 @@
 
  
 ### My Meet-up, Live coding and Talks
+- **2023** - [Conception d'un systeme evolutif](https://docs.google.com/presentation/d/1AHPtbF-PCHXWcyiNT0Ss0iNjf4WqU64etcf4vuUb2yc/edit?usp=sharing) (Dakar Institute of Technology)
 - **2023** - [Applicaiton resiliente](https://docs.google.com/presentation/d/1Yn8qfdwyq7D51BlU2y1-xnBqEsmqQRfYTmwXnRB6fic/edit?usp=sharing) (AllocoDrome Code d'ivoire)
 - **2023** - [Analyser vos données à des fins de prédictions](https://github.com/hadpro24/indabaxgn-2023) (IndabaX Guinee - Universite de Conakry)
 - **2023** - [Data Analysis et Machine Learning](https://docs.google.com/presentation/d/1jvnBrSlwOymGZzQ4hnodA4Hk8GHcdqSghUZoIdQ1qH8/edit?usp=sharing) (ORANGE DIGITAL CENTER)
