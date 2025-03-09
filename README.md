@@ -9,6 +9,9 @@
 
  
 ### My Meet-up, Live coding and Talks
+- **2025** - [Build reliability Environnement and Software](https://docs.google.com/presentation/d/1cej9tuxgjz_xaO1Kg6otva8UqVPemr4ZTz2lgz8ayJc/edit#slide=id.g32bbd48a756_0_0) (Skill Training - Online)
+- **2024** - [Automation et Moniroring - DevFest](https://docs.google.com/presentation/d/18f3wp_4gJUDFe6rFb72woruuMGWTmLAA2PZrt51t2_s/edit#slide=id.g228dee1d198_1_372) (DevFest - Place)
+- **2024** - [Analyser vos donnees - GDG LABE](https://docs.google.com/presentation/d/1HVD3Zftosej8OS6RvP27i74k_E4_Sc0tTzqq_819gI8/edit#slide=id.g228dee1d198_1_372) (DevFest - Place)
 - **2023** - [Conception d'un systeme evolutif](https://docs.google.com/presentation/d/1AHPtbF-PCHXWcyiNT0Ss0iNjf4WqU64etcf4vuUb2yc/edit?usp=sharing) (Dakar Institute of Technology)
 - **2023** - [Applicaiton resiliente](https://docs.google.com/presentation/d/1Yn8qfdwyq7D51BlU2y1-xnBqEsmqQRfYTmwXnRB6fic/edit?usp=sharing) (AllocoDrome Code d'ivoire)
 - **2023** - [Analyser vos données à des fins de prédictions](https://github.com/hadpro24/indabaxgn-2023) (IndabaX Guinee - Universite de Conakry)
