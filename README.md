@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with Self Supervised Learning
 - 💬 Ask me about Python/API GateWay/Message brokers/JavaScript/Error tracking/OAuth 2.0 and OpenID connect/SSO/CI-CD/Github Actions/Rate liming/NLP/Machine Learning and APEX (salesforce)/ Micro service communication/Application Resilence and more.
 - 📫 Reach me: dev.harouna@gmail.com
+- Sessionize Talk : https://sessionize.com/harouna
 
  
 ### My Meet-up, Live coding and Talks
