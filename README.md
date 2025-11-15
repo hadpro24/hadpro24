@@ -10,6 +10,7 @@
 
  
 ### My Meet-up, Live coding and Talks
+- **2025** - [Comment creer un agent IA pour votre site](https://docs.google.com/presentation/d/19TQoigxbc0BpF9GELnNI9j6oeLocRoTdbFTLZJFMhsI/edit?usp=sharing) (Xalara - Dakar Ouest Foire - Place)
 - **2025** - [Build reliability Environnement and Software](https://docs.google.com/presentation/d/1cej9tuxgjz_xaO1Kg6otva8UqVPemr4ZTz2lgz8ayJc/edit#slide=id.g32bbd48a756_0_0) (Skill Training - Online)
 - **2024** - [Automation et Moniroring - DevFest](https://docs.google.com/presentation/d/18f3wp_4gJUDFe6rFb72woruuMGWTmLAA2PZrt51t2_s/edit#slide=id.g228dee1d198_1_372) (DevFest - Place)
 - **2024** - [Analyser vos donnees - GDG LABE](https://docs.google.com/presentation/d/1HVD3Zftosej8OS6RvP27i74k_E4_Sc0tTzqq_819gI8/edit#slide=id.g228dee1d198_1_372) (DevFest - Place)
